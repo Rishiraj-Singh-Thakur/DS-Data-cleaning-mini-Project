@@ -42,7 +42,6 @@ Handle larger datasets
 Feel free to fork this project and improve it!
 
 📬 Connect with Me
-GitHub: (Add your link here)
-LinkedIn: (Add your link here)
+GitHub: (https://github.com/Rishiraj-Singh-Thakur/DS-Data-cleaning-mini-Project/tree/main)
 
 🔥 This project reflects my learning in Data Science and data preprocessing.
